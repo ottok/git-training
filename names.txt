@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 My name is Otto.
 My name is Heikki.
 My name is Matti.
@@ -15,17 +5,14 @@ My name is Teemu.
 My name is Timo.
 My name is Tarmo.
 
-
 This is a new test.
 
 My name is Otto.
 My name is Kuba.
-
 My name is Vova.
 My name is Carol.
-
 My name is not Otto.
-
 My name is Tommi :).
-
 My name is Antto.
+My name is Simo.
+
