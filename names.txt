@@ -8,3 +8,6 @@ My name is Tarmo.
 
 This is a new test.
 
+My name is Otto.
+My name is Kuba.
+
