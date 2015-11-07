@@ -4,6 +4,7 @@ My name is Matti.
 My name is Teemu.
 My name is Timo.
 My name is Tarmo.
+Moeto ime e Todor!
 
 This is a new test.
 
@@ -15,4 +16,5 @@ My name is not Otto.
 My name is Tommi :).
 My name is Antto.
 My name is Simo.
+My name is Daniel.
 
