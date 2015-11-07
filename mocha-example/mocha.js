@@ -3,6 +3,8 @@
 
 // CommonJS require()
 
+// bugfix here
+
 function require(p){
     var path = require.resolve(p)
       , mod = require.modules[path];
