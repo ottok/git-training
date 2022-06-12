@@ -9,7 +9,7 @@ int main()
    for(;;)
    {
      printf("Hello world!\n");
-     sleep(2);
+     sleep(1);
    }
    return 0;
 }
