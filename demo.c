@@ -6,10 +6,15 @@
 
 int main()
 {
-   for(;;)
-   {
-     printf("Hello world!\n");
-     sleep(1);
-   }
-   return 0;
+  printf("Hello world");
+  fflush(stdout);
+  for(int i = 1; i <= 15; ++i)
+  {
+    printf("!");
+    fflush(stdout);
+    sleep(.1);
+  }
+
+  printf("\n");
+  return 0;
 }
