@@ -4,11 +4,15 @@
 
 #include <stdio.h>
 
+// Include library that has sleep()
+#include <unistd.h>
+
 int main()
 {
-  printf("Hello world");
+  printf("Hello world fixed");
   fflush(stdout);
-  for(int i = 1; i <= 15; ++i)
+
+  for (int i = 1; i <= 5; ++i)
   {
     printf("!");
     fflush(stdout);
